@@ -50,3 +50,5 @@ Alterna entre as ramificações das versões do projeto.
 $ git push origin "nome da branch"
 
 Usado para "subir" a alteração para o GitHub.
+
+FIM...
