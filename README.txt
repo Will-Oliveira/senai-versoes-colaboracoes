@@ -1,3 +1,10 @@
+Inicio da tarefa
+/
+/
+Fim da tarefa
+@LeoEmiliano
+
+
 Principais comandos git, utilizados para gerenciar versionamento:<br>
 
 $ cd "nome da pasta"
